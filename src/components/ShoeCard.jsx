@@ -20,7 +20,7 @@ const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
             alt='shoe colletion'
             width={127}
             height={103.34}
-            className='object-contain'
+            className='object-contain transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
           />
         </div>
       </div>

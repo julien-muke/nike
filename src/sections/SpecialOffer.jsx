@@ -11,7 +11,7 @@ const SpecialOffer = () => {
           alt='Shoe Promotion'
           width={773}
           height={687}
-          className='object-contain w-full'
+          className='object-contain w-full transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
         />
       </div>
       <div className='flex flex-1 flex-col'>
