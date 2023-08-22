@@ -1,5 +1,5 @@
 # Build and Deploy a Nike Landing Page using Tailwind CSS | 2023
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 ## Implementation:
 - Learn how to make the most out of Tailwind CSS
