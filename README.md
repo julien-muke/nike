@@ -1,8 +1,11 @@
-# React + Vite
+# Build and Deploy a Nike Landing Page using Tailwind CSS | 2023
+![Screenshot](Screenshot.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Implementation:
+- Learn how to make the most out of Tailwind CSS
+- Fully understand how Tailwind works behind-the-scenes
+- Follow all of Tailwind's best practices
+- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learn from JavaScript Mastery 
+⭐ JSM - https://jsmastery.pro/masterclass
